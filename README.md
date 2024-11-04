@@ -1,5 +1,7 @@
 # Hackintosh, Asus Prime B550M-A, AMD Ryzen 5 5600, AMD Radeon RX 6600M
 
+![Overview](https://github.com/user-attachments/assets/386b85f5-288b-4c38-8c58-99e8b684f31d)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.1)
