@@ -1,4 +1,4 @@
-# Hackintosh, Asus Prime B550M-A, AMD Ryzen 5 5600, GPUXXXXXX
+# Hackintosh, Asus Prime B550M-A, AMD Ryzen 5 5600, AMD Radeon RX 6600M
 
 # Basic Information
 
